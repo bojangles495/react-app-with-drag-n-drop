@@ -1,0 +1,1 @@
+export default 'APPLICATION.EDIT';

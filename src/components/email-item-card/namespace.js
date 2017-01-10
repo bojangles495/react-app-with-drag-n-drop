@@ -1,0 +1,1 @@
+export default 'APPLICATION.EMAIL-ITEM-CARD';
